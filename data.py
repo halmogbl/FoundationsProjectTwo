@@ -1,4 +1,3 @@
-# CREATION OF DATA
 ######################### DO NOT MODIFY THIS CODE ###########################
 from components import Store, Product
 
